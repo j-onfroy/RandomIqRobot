@@ -1,6 +1,5 @@
 package org.example;
 
-import jdk.dynalink.linker.LinkerServices;
 import org.telegram.telegrambots.bots.TelegramLongPollingBot;
 import org.telegram.telegrambots.meta.api.methods.ParseMode;
 import org.telegram.telegrambots.meta.api.methods.send.SendDocument;
@@ -9,13 +8,12 @@ import org.telegram.telegrambots.meta.api.objects.InputFile;
 import org.telegram.telegrambots.meta.api.objects.Message;
 import org.telegram.telegrambots.meta.api.objects.Update;
 import org.telegram.telegrambots.meta.api.objects.User;
-import org.telegram.telegrambots.meta.api.objects.replykeyboard.ReplyKeyboard;
+
 import org.telegram.telegrambots.meta.api.objects.replykeyboard.ReplyKeyboardMarkup;
 import org.telegram.telegrambots.meta.api.objects.replykeyboard.buttons.KeyboardButton;
 import org.telegram.telegrambots.meta.api.objects.replykeyboard.buttons.KeyboardRow;
 import org.telegram.telegrambots.meta.exceptions.TelegramApiException;
 
-import javax.swing.text.html.HTML;
 import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
@@ -77,7 +75,8 @@ public class MyBot extends TelegramLongPollingBot {
 
                     SendDocument sendDocument = new SendDocument();
                     sendDocument.setChatId(String.valueOf(chatId));
-                    sendDocument.setDocument(new InputFile(new File("docs/interviewquestion.txt")));
+                    InputFile document = new InputFile((new File("docs/interviewquestion.txt")));
+                    sendDocument.setDocument(document);
                     try {
                         execute(sendDocument);
                     } catch (Exception e) {
