@@ -36,7 +36,7 @@
                 <programs>
                 <program>
                     <mainClass>org.example.Main</mainClass>
-                    <name>workerBot</name>
+                    <name>RandomIqBot</name>
                 </program>
                 </programs>
                 </configuration>
