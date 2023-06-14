@@ -9,8 +9,8 @@
     <version>1.0</version>
 
     <properties>
-        <maven.compiler.source>8</maven.compiler.source>
-        <maven.compiler.target>8</maven.compiler.target>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
     <dependencies>
@@ -22,11 +22,11 @@
             <version>2.0.0-alpha0</version>
             </dependency>
 
-            <dependency>
-                <groupId>org.telegram</groupId>
-                    <artifactId>telegrambots</artifactId>
-                <version>6.0.1</version>
-            </dependency>
+        <dependency>
+            <groupId>org.telegram</groupId>
+            <artifactId>telegrambots</artifactId>
+            <version>6.0.1</version>
+        </dependency>
 
         <!-- https://mvnrepository.com/artifact/org.slf4j/slf4j-jdk14 -->
             <dependency>
@@ -36,11 +36,6 @@
             <scope>runtime</scope>
         </dependency>
         <!-- https://mvnrepository.com/artifact/org.apache.pdfbox/pdfbox -->
-        <dependency>
-            <groupId>org.apache.pdfbox</groupId>
-            <artifactId>pdfbox</artifactId>
-            <version>2.0.28</version>
-        </dependency>
     </dependencies>
     <build>
         <plugins>
