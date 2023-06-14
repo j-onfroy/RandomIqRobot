@@ -1,0 +1,100 @@
+JavaScript dasturlash tili haqida qisqacha gap bering.
+JavaScriptning asosiy maqsadi nima?
+JavaScript va Java tushunchalari orasidagi farqni tushunishingiz qanday?
+JavaScriptning turli versiyalari bo'lganligini bilib oling va ularning farqlarini aytib bering.
+JavaScript tilida "variable" (o'zgaruvchi) nima?
+JavaScript tilida "function" (funksiya) nima?
+JavaScript tilida "object" (obyekt) nima?
+JavaScript tilida "array" (massiv) nima?
+JavaScript tilida "string" nima?
+JavaScript tilida "boolean" (mantiqiy qiymat) nima?
+JavaScript tilida "undefined" va "null" qiymatlari orasidagi farq nima?
+JavaScript tilida "if" va "switch" ifodalari orasidagi farq nima?
+JavaScript tilida "for" va "while" tsikllari orasidagi farq nima?
+JavaScript tilida "break" va "continue" operatorlari qanday ishlaydi?
+JavaScript tilida "typeof" operatori qanday ishlaydi?
+JavaScript tilida "NaN" va "isNaN" qanday ishlaydi?
+JavaScript tilida "parseInt" va "parseFloat" funksiyalari qanday ishlaydi?
+JavaScript tilida "Math" obyekti qanday ishlaydi?
+JavaScript tilida "Date" obyekti qanday ishlaydi?
+JavaScript tilida "setTimeout" va "setInterval" funksiyalari qanday ishlaydi?
+JavaScript tilida "this" kalit so'zi qanday ishlaydi?
+JavaScript tilida "arrow function" qanday ishlaydi?
+JavaScript tilida "callback" funksiyalar qanday ishlaydi?
+JavaScript tilida "closures" (yoqlik) qanday ishlaydi?
+JavaScript tilida "prototype" (asosiy) obyekti qanday ishlaydi?
+JavaScript tilida "async" va "await" kalit so'zlari qanday ishlaydi?
+JavaScript tilida "Promise" obyekti qanday ishlaydi?
+JavaScript tilida "module" (modul) qanday yoziladi?
+JavaScript tilida "ES6+" (ES6dan keyingi versiyalar) nima bilan ajralib chiqgan?
+JavaScript tilida "spread operator" qanday ishlaydi?
+JavaScript tilida "destructuring assignment" qanday ishlaydi?
+JavaScript tilida "map" va "filter" funksiyalari qanday ishlaydi?
+JavaScript tilida "forEach" va "reduce" funksiyalari qanday ishlaydi?
+JavaScript tilida "JSON" obyekti va "JSON.stringify" qanday ishlaydi?
+JavaScript tilida "localStorage" va "sessionStorage" qanday ishlaydi?
+JavaScript tilida "AJAX" va "fetch" qanday ishlaydi?
+JavaScript tilida "callback hell" (yoqimsizlik jahli) nima?
+JavaScript tilida "hoisting" qanday ishlaydi?
+JavaScript tilida "strict mode" qanday yoqiladi?
+JavaScript tilida "event bubbling" va "event delegation" qanday ishlaydi?
+JavaScript tilida "DOM" (Document Object Model) nima?
+JavaScript tilida "querySelector" va "querySelectorAll" qanday ishlaydi?
+JavaScript tilida "addEventListener" va "removeEventListener" qanday ishlaydi?
+JavaScript tilida "classList" obyekti qanday ishlaydi?
+JavaScript tilida "createElement" va "appendChild" qanday ishlaydi?
+JavaScript tilida "innerHTML" va "textContent" qanday ishlaydi?
+JavaScript tilida "setAttribute" va "getAttribute" qanday ishlaydi?
+JavaScript tilida "event.preventDefault()" qanday ishlaydi?
+JavaScript tilida "event.stopPropagation()" qanday ishlaydi?
+JavaScript tilida "AJAX" so'rovlari yuborish va javobni qanday qabul qilish mumkin?
+JavaScript tilida "XMLHttpRequest" va "fetch" orasidagi farq nima?
+JavaScript tilida "Promise" chaining (zanglamalash) qanday ishlaydi?
+JavaScript tilida "async/await" va "Promise" orasidagi farq nima?
+JavaScript tilida "error handling" qanday amalga oshiriladi?
+JavaScript tilida "try/catch" bloklari qanday ishlaydi?
+JavaScript tilida "localStorage"dan ma'lumotlarni o'chirish qanday amalga oshiriladi?
+JavaScript tilida "array"dan ma'lumotlarni o'chirish va qo'shish qanday amalga oshiriladi?
+JavaScript tilida "event delegation" nima uchun foydalaniladi?
+JavaScript tilida "memoization" qanday ishlaydi?
+JavaScript tilida "currying" qanday ishlaydi?
+JavaScript tilida "call", "apply" va "bind" funksiyalari qanday ishlaydi?
+JavaScript tilida "ES modules" va "CommonJS modules" orasidagi farq nima?
+JavaScript tilida "hoisting" va "temporal dead zone" orasidagi farq nima?
+JavaScript tilida "map" va "forEach" funksiyalari orasidagi farq nima?
+JavaScript tilida "IIFE" (Immediately Invoked Function Expression) qanday ishlaydi?
+JavaScript tilida "strict mode" qanday foydalaniladi?
+JavaScript tilida "ESLint" va "Prettier" qanday ishlaydi?
+JavaScript tilida "generator" funksiyalar qanday ishlaydi?
+JavaScript tilida "Symbol" ma'lumot turi qanday ishlaydi?
+JavaScript tilida "EventEmitter" va "Event" obyektlari qanday ishlaydi?
+JavaScript tilida "requestAnimationFrame" va "setTimeout" orasidagi farq nima?
+JavaScript tilida "Web Workers" qanday ishlaydi?
+JavaScript tilida "Proxy" obyekti qanday ishlaydi?
+JavaScript tilida "Immutable" (o'zgarmas) obyektlar qanday ishlaydi?
+JavaScript tilida "ES modules"ni amalga oshirish uchun "import" va "export" qanday ishlaydi?
+JavaScript tilida "Promise" obyekti va "async/await" orasidagi farq nima?
+JavaScript tilida "Set" va "Map" obyektlari qanday ishlaydi?
+JavaScript tilida "BigInt" ma'lumot turi qanday ishlaydi?
+JavaScript tilida "WeakSet" va "WeakMap" obyektlari qanday ishlaydi?
+JavaScript tilida "requestAnimationFrame" va "setInterval" orasidagi farq nima?
+JavaScript tilida "XMLHttpRequest" va "fetch" orasidagi farq nima?
+JavaScript tilida "constructor" funksiyasi qanday ishlaydi?
+JavaScript tilida "Array.isArray()" qanday ishlaydi?
+JavaScript tilida "Object.keys()" va "Object.values()" qanday ishlaydi?
+JavaScript tilida "Array.prototype.slice()" va "Array.prototype.splice()" orasidagi farq nima?
+JavaScript tilida "call" va "apply" funksiyalari orasidagi farq nima?
+JavaScript tilida "bind" funksiyasi qanday ishlaydi?
+JavaScript tilida "event.preventDefault()" va "return false" orasidagi farq nima?
+JavaScript tilida "event.target" va "event.currentTarget" orasidagi farq nima?
+JavaScript tilida "querySelector" va "getElementById" qanday ishlaydi?
+JavaScript tilida "appendChild" va "innerHTML" orasidagi farq nima?
+JavaScript tilida "setAttribute" va "property" orasidagi farq nima?
+JavaScript tilida "local scope" va "global scope" orasidagi farq nima?
+JavaScript tilida "lexical scope" va "dynamic scope" orasidagi farq nima?
+JavaScript tilida "hoisting" va "closure" orasidagi farq nima?
+JavaScript tilida "event bubbling" va "event capturing" orasidagi farq nima?
+JavaScript tilida "sync" va "async" funksiyalar orasidagi farq nima?
+JavaScript tilida "JSON.parse()" va "JSON.stringify()" qanday ishlaydi?
+JavaScript tilida "localStorage" va "sessionStorage" orasidagi farq nima?
+JavaScript tilida "strict mode" qanday yoqiladi?

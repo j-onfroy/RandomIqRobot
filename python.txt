@@ -1,0 +1,184 @@
+Python dasturlash tili haqida qisqacha gap bering.
+Python3 va Python2 o'rtasidagi asosiy farqlarni tushunishingiz qanday?
+Python3 integer va float turidagi ma'lumotlar orasidagi asosiy farqlar nimalardir?
+Pythonda list va tuple turlarini farqlantiring.
+Pythonda "mutable" va "immutable" nima?
+Pythonda funksiyalarni tushunishingiz qanday? Misol bilan tushuntiring.
+Pythonda *args va **kwargs nima?
+Pythonda lambda funksiyalari haqida nima bilasiz?
+Pythonda generatorlar va iteratorlar orasidagi farqni tushunishingiz qanday?
+Pythonda modullar va paketlarni tushunishingiz qanday?
+Pythonda __init__ metodining vazifasi nima?
+Pythonda "name mangling" nima?
+Pythonda rekursiv funksiyalarni yaratish usullarini tushunishingiz qanday?
+Pythonda decorators haqida nima bilasiz?
+Pythonda OOP (Object-Oriented Programming) nima?
+Pythonda klasslarni nasl yaratishingiz mumkin?
+Pythonda klasslar orasidagi turli tarzda metodlarni tushunishingiz qanday?
+Pythonda klassning obyektiga oid xususiyatlar (attributes) nima?
+Pythonda klasslarning maxsus metodlari (special methods) qanday ishlaydi?
+Pythonda abstrakt klasslar va interfeyslar haqida nima bilasiz?
+Pythonda exceptionlar (istisnolar) qanday ishlaydi?
+Pythonda try-except bloklarini qanday ishlatish mumkin?
+Pythonda finally blokining vazifasi nima?
+Pythonda ma'lum bir faylni o'qish va yozish uchun qanday usullar mavjud?
+Pythonda threading va multiprocessing haqida nima bilasiz?
+Pythonda context managers (kontekst boshqaruvchilari) qanday ishlaydi?
+Pythonda metaclasslarni tushunishingiz qanday?
+Pythonda modullarni sinash va testing qilish uchun qanday usullar mavjud?
+Pythonda JSON ma'lumotlarni yozish va o'qish qanday amalga oshiriladi?
+Pythonda decoratorlar qanday ishlaydi va qanday qo'llaniladi?
+Pythonda virtual muhitlar (virtual environments) haqida nima bilasiz?
+Pythonda pip bilan kutubxonalarni qanday o'rnatish mumkin?
+Pythonda * operatori qanday ishlaydi?
+Pythonda generator funktsiyalarni qanday yaratish mumkin?
+Pythonda list comprehension va generator expression nima?
+Pythonda __name__ va __main__ nima bilasiz?
+Pythonda iterable va iteratorlar orasidagi farqi tushunishingiz qanday?
+Pythonda modullar orasidagi import va from ... import orasidagi farq nima?
+Pythonda split() va join() metodlari nima bilasiz?
+Pythonda global o'zgaruvchilar va lokal o'zgaruvchilar orasidagi farq nima?
+Pythonda file obyekti bilan ishlashning muhimiyati nima?
+Pythonda metodi va funksiyani boshqarish usullari orasidagi farq nima?
+Pythonda map() va filter() funktsiyalari qanday ishlaydi?
+Pythonda set va frozenset turlarini tushunishingiz qanday?
+Pythonda hashable va unhashable obyektlar orasidagi farqi tushunishingiz qanday?
+Pythonda namespace haqida nima bilasiz?
+Pythonda __str__() va __repr__() metodlari orasidagi farq nima?
+Pythonda metoddan klass o'zgaruvchilariga qanday murojaat qilish mumkin?
+Pythonda "list slicing" nima?
+Pythonda None obyekti haqida nima bilasiz?
+Pythonda zip() funksiyasi qanday ishlaydi?
+Pythonda _ usuli nima uchun qo'llaniladi?
+Pythonda collections moduli qanday foydalaniladi?
+Pythonda iterable obyektlarni o'zlashtirish haqida nima bilasiz?
+Pythonda .format() va f-stringlar orasidagi farq nima?
+Pythonda sys va os modullari nima uchun qo'llaniladi?
+Pythonda classmethod va staticmethod orasidagi farq nima?
+Pythonda PEP8 nima uchun qo'llaniladi?
+Pythonda argparse moduli qanday foydalaniladi?
+Pythonda built-in funktsiyalar haqida nima bilasiz?
+Pythonda is va == operatorlari orasidagi farq nima?
+Pythonda .sort() va sorted() metodlari orasidagi farq nima?
+Pythonda metoddan klassning atributiga qanday murojaat qilish mumkin?
+Pythonda metoddan klassning klass atributiga qanday murojaat qilish mumkin?
+Pythonda sys.argv qanday ishlaydi?
+Pythonda metoddan klassning superklassiga qanday murojaat qilish mumkin?
+Pythonda listalar orasidagi to'plamlarni topish uchun qanday usulni qo'llash mumkin?
+Pythonda decoratorning ishlatilishi qanday amalga oshiriladi?
+Pythonda metodlardan boshqa metodlarga murojaat qanday amalga oshiriladi?
+Pythonda metoddan metoda o'zgaruvchini uzatish uchun qanday usulni qo'llash mumkin?
+Pythonda self kalit so'zi nima uchun qo'llaniladi?
+Pythonda "polymorphism" nima?
+Pythonda json modulini qanday foydalanish mumkin?
+Pythonda with kalit so'zi nima uchun qo'llaniladi?
+Pythonda collections.Counter nima uchun qo'llaniladi?
+Pythonda listalarni birlashtirish uchun qanday usulni qo'llash mumkin?
+Pythonda re moduli qanday foydalanish mumkin?
+Pythonda biror obyektda belgilanmagan xususiyatlarni topish uchun qanday usulni qo'llash mumkin?
+Pythonda context managers (kontekst boshqaruvchilari)ni qanday o'zgartirish mumkin?
+Pythonda matnlarni teskarisiga o'girish uchun qanday usulni qo'llash mumkin?
+Pythonda matnlar orasidagi formatlashni qanday amalga oshirish mumkin?
+Pythonda dict bilan ishlash uchun qanday usulni qo'llash mumkin?
+Pythonda biror matndan biror qismni indeks orqali olish uchun qanday usulni qo'llash mumkin?
+Pythonda matndagi belgilar sonini qanday hisoblash mumkin?
+Pythonda matnlarni bo'shliq bilan ajratish uchun qanday usulni qo'llash mumkin?
+Pythonda sonlarni teskarisiga o'girish uchun qanday usulni qo'llash mumkin?
+Pythonda ma'lum bir matndagi belgilar sonini topish uchun qanday usulni qo'llash mumkin?
+Pythonda "scope" (yadro) nima?
+Pythonda matnlarni bitta matndan ajratib olish uchun qanday usulni qo'llash mumkin?
+Pythonda matnlarni katta harflarga o'tkazish uchun qanday usulni qo'llash mumkin?
+Pythonda del operatoridan foydalanish uchun qanday hollarni bilasiz?
+Pythonda matnlar orasidagi biron bir qatorni topish uchun qanday usulni qo'llash mumkin?
+Pythonda ma'lum bir matndan biron bir belgini topish uchun qanday usulni qo'llash mumkin?
+Pythonda while tsiklini qanday amalga oshirish mumkin?
+Pythonda for tsiklini qanday amalga oshirish mumkin?
+Pythonda try-except bloklaridan foydalanish uchun qanday hollarni bilasiz?
+Pythonda faylni o'qish uchun qanday usulni qo'llash mumkin?
+Pythonda faylni yozish uchun qanday usulni qo'llash mumkin?
+Pythonda fayldan matn o'qish uchun qanday usulni qo'llash mumkin?
+Pythonda matnlar orasidagi teskarisini olish uchun qanday usulni qo'llash mumkin?
+Pythonda butun sonni teskari aylantirish dasturini yozing.
+Butun son Armstrong raqami yoki yo'qligini tekshirish uchun Python-da dastur yozing.
+Berilgan raqam tub yoki yo'qligini tekshirish uchun Python-da dastur yozing.
+
+Fibonachchi seriyasini iterativ usul yordamida chop etish uchun Python-da dastur yozing.
+Rekursiv usul yordamida Fibonachchi seriyasini chop etish uchun Python-da dastur yozing.
+Pythonda sonning palindrom ekanligini yoki iterativ usuldan foydalanmasligini tekshirish uchun dastur yozing.
+
+Pythonda sonning palindrom ekanligini yoki rekursiv usuldan foydalanmasligini tekshirish uchun dastur yozing.
+Pythonda uchta butun sondan eng kattasini topish uchun dastur yozing.
+Raqam ikkilik ekanligini tekshirish uchun Python-da dastur yozing?
+Rekursiya yordamida son raqamlari yig'indisini topish uchun Pythonda dastur yozing?
+Uchinchi o'zgaruvchidan foydalanmasdan ikkita raqamni almashtirish uchun Python dasturini yozing?
+Uchinchi o'zgaruvchi yordamida ikkita raqamni almashtirish uchun Python dasturini yozing?
+
+Berilgan butun sonning tub omillarini topish uchun Python tilida dastur yozing.
+Pythonda arifmetik operatordan foydalanmasdan ikkita butun son qo'shish uchun dastur yozing?
+Berilgan raqam mukammal yoki yo'qligini topish uchun Python-da dastur yozing?
+Tushuntirishlar bilan raqamlarning o'rtacha qiymatini topish uchun Python dasturi.
+Iterativ usul yordamida faktorial hisoblash uchun Python dasturi.
+Rekursiya yordamida faktorial hisoblash uchun Python dasturi.
+
+Berilgan raqamning juft yoki toq ekanligini tekshirish uchun Python dasturi.
+Tushuntirish bilan birinchi n Bosh raqamni chop etish uchun Python dasturi.
+Muayyan diapazonda asosiy raqamni chop etish uchun Python dasturi.
+Python dasturi uchtadan eng kichik sonni topadi.
+POW usuli yordamida quvvatni hisoblash uchun Python dasturi.
+POW funksiyasidan foydalanmasdan quvvatni hisoblash uchun Python dasturi. (for loop yordamida).
+
+POW funksiyasidan foydalanmasdan quvvatni hisoblash uchun Python dasturi. (while loop yordamida).
+Berilgan sonning kvadratini hisoblash uchun Python dasturi.
+Berilgan raqamning kubini hisoblash uchun Python dasturi.
+Berilgan raqamning kvadrat ildizini hisoblash uchun Python dasturi.
+Berilgan ikkita raqamning LCM ni hisoblash uchun Python dasturi.
+Ikki raqamning GCD yoki HCF ni topish uchun Python dasturi.
+Rekursiya yordamida ikkita raqamning GCD ni topish uchun Python dasturi.
+O'nlik sonni ikkilikka aylantirish uchun Python dasturi.
+O'nlik sonni sakkizlik raqamga o'tkazish uchun Python dasturi.
+Python dasturi bu yil kabisa yilimi yoki yo'qligini tekshirish.
+Tselsiyni Farengeytga aylantirish uchun Python dasturi.
+Farengeytni Selsiyga aylantirish uchun Python dasturi.
+Oddiy foizlarni tushuntirish bilan hisoblash uchun Python dasturi.
+Stringda Python kodlash savollari
+Stringdan berilgan belgini olib tashlash uchun Python dasturi.
+Satrda berilgan belgilarning paydo bo'lishini hisoblash uchun Python dasturi.
+Ikki satrning Anagram ekanligini tekshirish uchun Python dasturi.
+String palindrom yoki yo'qligini tekshirish uchun Python dasturi.
+Berilgan belgi unli yoki undosh ekanligini tekshirish uchun Python dasturi.
+Belgilangan belgining raqam yoki yo'qligini tekshirish uchun Python dasturi.
+Python dasturi berilgan belgining raqam yoki isdigit() usulidan foydalanmasligini tekshirish.
+Satr maydonini berilgan belgi bilan almashtirish uchun Python dasturi.
+Python dasturi, replace() usuli yordamida satr maydonini berilgan belgi bilan almashtirish.
+Kichik harfni satrning bosh harfiga aylantirish uchun Python dasturi.
+Satrdagi kichik unlini katta harfga aylantirish uchun Python dasturi.
+Berilgan qatordagi unlilarni o'chirish uchun Python dasturi.
+Satrdagi unli va undosh tovushlarni sanash uchun Python dasturi.
+Stringdagi eng yuqori chastotali belgini chop etish uchun Python dasturi.
+Stringdagi birinchi unli tovushni “-” bilan almashtirish uchun Python dasturi.
+Alfavit, raqamlar va maxsus belgilarni hisoblash uchun Python dasturi.
+Berilgan satrdagi belgilarni ajratish uchun Python dasturi.
+Satrdan bo'sh joyni olib tashlash uchun Python dasturi.
+Python dasturi, join() usuli yordamida ikkita satrni birlashtirish uchun.
+Python dasturi, join() usulidan foydalanmasdan ikkita satrni birlashtirish uchun.
+Satrdan takroriy belgilarni olib tashlash uchun Python dasturi.
+Satrdagi butun sonlar yig'indisini hisoblash uchun Python dasturi.
+Stringdagi barcha takrorlanmaydigan belgilarni chop etish uchun Python dasturi.
+Python dasturi bir satrni boshqa qatorga nusxalash uchun.
+Python dasturi satr belgilarini o'sish tartibida tartiblash uchun.
+Python dasturi satr belgilarini kamayish tartibida tartiblash uchun.
+
+
+Massivda Python kodlash savollari
+Pythonda dastur yozing, massivda 1-100 ta raqam saqlanadi, bitta raqam etishmayotgan uni qanday topasiz.
+Pythonda dastur yozing, massivda 1 dan 100 gacha bir nechta sonlar dublikatdir, uni qanday topish mumkin.
+Yig'indisi berilgan songa teng bo'lgan butun sonlar massividagi barcha juftlarni qanday topish mumkinligi uchun Python tilida dastur yozing.
+Pythonda dastur yozing, Ikki massivni o'lchami teng yoki yo'qligini qanday solishtirish mumkin.
+Massivdagi eng katta va eng kichik sonni topish uchun Python tilida dastur yozing.
+Butun sonlar qatorida ikkinchi eng yuqori raqamni topish uchun Python-da dastur yozing.
+Massivdagi eng yuqori ikkita maksimal sonni topish uchun Python-da dastur yozing?
+Forma massivining takroriy elementlarini olib tashlash uchun Python-da dastur yozing.
+Massivdagi eng yuqori ikkita maksimal sonni topish uchun Python dasturi.
+Massivni teskari tartibda chop etish uchun Python dasturi.
+Massivni ikki usulda qaytarish uchun Python dasturi.
+Hisoblash uchun Python dasturi

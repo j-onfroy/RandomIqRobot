@@ -1,0 +1,221 @@
+C++ dasturlash tili haqida qisqacha gap bering.
+C++ning asosiy maqsadi nima?
+C++ va C# tushunchalari orasidagi farqni tushunishingiz qanday?
+C++ning turli versiyalari bo'lganligini biling va ularning farqlarini aytib bering.
+C++ dasturlash tilida "pointer" nima?
+C++ tilida alohida obyektlar va klasslar haqida nima bilasiz?
+C++ tilida funksiya prototipi va funksiya definitsiyasi orasidagi farq nima?
+C++ tilida "pass by value" va "pass by reference" qanday ishlaydi?
+C++ tilida "const" kalit so'zi nima uchun qo'llaniladi?
+C++ tilida "inline" funksiyalar haqida nima bilasiz?
+C++ tilida "namespace" nima?
+C++ tilida "template" haqida nima bilasiz?
+C++ tilida "operator overloading" nima?
+C++ tilida "friend" funksiyalar qanday ishlaydi?
+C++ tilida "virtual" funksiyalar haqida nima bilasiz?
+C++ tilida "polymorphism" nima?
+C++ tilida "inheritance" (vorislik) nima?
+C++ tilida "multiple inheritance" (ko'p vorislik) qanday ishlaydi?
+C++ tilida "abstraction" nima?
+C++ tilida "encapsulation" nima?
+C++ tilida "exception handling" qanday ishlaydi?
+C++ tilida "try-catch" bloklari haqida nima bilasiz?
+C++ tilida "RAII" (Resource Acquisition Is Initialization) nima?
+C++ tilida "smart pointers" qanday ishlaydi?
+C++ tilida "STL" (Standard Template Library) nima?
+C++ tilida "vector" qanday ishlaydi?
+C++ tilida "list" qanday ishlaydi?
+C++ tilida "map" va "unordered_map" orasidagi farq nima?
+C++ tilida "set" va "unordered_set" orasidagi farq nima?
+C++ tilida "string" qanday ishlaydi?
+C++ tilida "iostream" nima uchun qo'llaniladi?
+C++ tilida fayllardan o'qish va fayllarga yozish qanday amalga oshiriladi?
+C++ tilida "static" kalit so'zi nima uchun qo'llaniladi?
+C++ tilida "const" funksiyalar haqida nima bilasiz?
+C++ tilida "constexpr" kalit so'zi va konstantalarning qo'llanilishi haqida nima bilasiz?
+C++ tilida "lambda" ifodalar qanday ishlaydi?
+C++ tilida "auto" kalit so'zi nima uchun qo'llaniladi?
+C++ tilida "range-based for loop" nima?
+C++ tilida "sizeof" operatori qanday ishlaydi?
+C++ tilida "type casting" (turi o'zgartirish) qanday amalga oshiriladi?
+C++ tilida "preprocessor directives" qanday ishlaydi?
+C++ tilida "static_assert" nima uchun qo'llaniladi?
+C++ tilida "thread" va "mutex" haqida nima bilasiz?
+C++ tilida "lambda expressions" qanday ishlaydi?
+C++ tilida "constexpr" va "const" orasidagi farq nima?
+C++ tilida "move semantics" nima?
+C++ tilida "rvalue references" qanday ishlaydi?
+C++ tilida "copy constructor" va "copy assignment operator" orasidagi farq nima?
+C++ tilida "new" va "delete" operatorlari qanday ishlaydi?
+C++ tilida "placement new" qanday ishlaydi?
+C++ tilida "friend class" qanday ishlaydi?
+C++ tilida "default constructor" va "parameterized constructor" orasidagi farq nima?
+C++ tilida "operator precedence" (amalni bajarish tartibi) qanday ishlaydi?
+C++ tilida "ternary operator" qanday ishlaydi?
+C++ tilida "this" kalit so'zi nima uchun qo'llaniladi?
+C++ tilida "sizeof" operatori qanday ishlaydi?
+C++ tilida "scope resolution operator" qanday ishlaydi?
+C++ tilida "type traits" haqida nima bilasiz?
+C++ tilida "const_cast", "static_cast", "dynamic_cast" va "reinterpret_cast" operatorlari qanday ishlaydi?
+C++ tilida "namespace alias" qanday ishlaydi?
+C++ tilida "volatile" kalit so'zi nima uchun qo'llaniladi?
+C++ tilida "std::move" va "std::forward" funksiyalari qanday ishlaydi?
+C++ tilida "decltype" kalit so'zi qanday ishlaydi?
+C++ tilida "virtual destructor" qanday ishlaydi?
+C++ tilida "abstract class" nima?
+C++ tilida "pure virtual function" nima?
+C++ tilida "inline namespace" qanday ishlaydi?
+C++ tilida "explicit" kalit so'zi qanday ishlaydi?
+C++ tilida "reinterpret_cast" va "static_cast" orasidagi farq nima?
+C++ tilida "nothrow" va "bad_alloc" exceptionlar orasidagi farq nima?
+C++ tilida "std::string" va "char*" orasidagi farq nima?
+C++ tilida "thread-safe" klas va funksiyalar qanday yoziladi?
+C++ tilida "friend" funksiyalarni va klaslarni qanday ishlatish mumkin?
+C++ tilida "auto" va "decltype" kalit so'zlarini qanday ishlatish mumkin?
+C++ tilida "smart pointers" qanday ishlaydi va ulardan qanday foydalanish mumkin?
+C++ tilida "template" klaslarni qanday yozish mumkin?
+C++ tilida "function overloading" qanday ishlaydi?
+C++ tilida "const" funksiyalar va "const" obyektlar orasidagi farq nima?
+C++ tilida "RAII" (Resource Acquisition Is Initialization) mazmuni qanday?
+C++ tilida "enum" va "enum class" orasidagi farq nima?
+C++ tilida "volatile" kalit so'zi va "atomic" o'zgaruvchilari qanday ishlaydi?
+C++ tilida "this" kalit so'zi va "static" funksiyalar orasidagi farq nima?
+C++ tilida "const" funksiyalar va "constexpr" funksiyalar orasidagi farq nima?
+C++ tilida "range-based for loop" qanday ishlaydi va qachon ishlatiladi?
+C++ tilida "copy constructor" va "copy assignment operator" qanday yoziladi?
+C++ tilida "nullptr" kalit so'zi va "NULL" orasidagi farq nima?
+C++ tilida "assert" nima uchun qo'llaniladi?
+C++ tilida "sizeof" operatori va "strlen" funksiyasi orasidagi farq nima?
+C++ tilida "const" obyektlarni "mutable" o'zgaruvchilar bilan ishlash qanday?
+C++ tilida "namespace" ning muhimligi va foydalanish tartibi nima?
+C++ tilida "using" kalit so'zi va "typedef" orasidagi farq nima?
+C++ tilida "default" va "delete" funksiyalarni qanday ishlatish mumkin?
+C++ tilida "initializer list" qanday ishlaydi?
+C++ tilida "lvalue" va "rvalue" orasidagi farq nima?
+C++ tilida "mutable" kalit so'zi va "const" funksiyalar orasidagi farq nima?
+C++ tilida "class" va "struct" orasidagi farq nima?
+C++ tilida "operator overloading" qanday ishlaydi va qachon foydalaniladi?
+C++ tilida "std::move" va "std::forward" funksiyalarni qachon va qanday ishlatish mumkin?
+C++ tilida "dynamic_cast" va "static_cast" operatorlarini qanday foydalanish mumkin?
+C++ tilida "iostream" va "fstream" kutubxonalari orasidagi farq nima?
+C++ da qanday ma'lumotlar turlari mavjud?
+C va C++ o'rtasidagi farq nima?
+C++ tilida sinf va obyekt nima?
+Struktura va sinf o'rtasidagi farq nima?
+Operatorning ortiqcha yuklanishi nima?
+C++ tilida polimorfizm nima?
+C++ tilida konstruktorni tushuntiring
+Virtual funksiya haqida gapirib bering
+Kompilyatsiya vaqti polimorfizmi va Runtime polimorfizmini solishtiring
+Do'st sinfi va do'st funksiyasi haqida nimalarni bilasiz?
+C++ ga kirish spetsifikatsiyalari nima?
+Inline funksiyasini aniqlang
+C++ tilida havola nima?
+C++ tilida abstraksiya deganda nimani tushunasiz?
+Dekonstruktorni ortiqcha yuklash mumkinmi? Ha bo'lsa, tushuntiring va agar yo'q bo'lsa, nima uchun?
+Qiymati bo‘yicha chaqirish va mos yozuvlar bo‘yicha chaqirish deganda nimani tushunasiz?
+Abstrakt sinf nima va undan qachon foydalanasiz?
+C++ da destruktorlar nima?
+Statik a'zolar va statik a'zolar funksiyalari nimalardan iborat?
+Meros haqida ma’lumot bering
+OOPS ning to'liq shakli qanday?
+Sinf nima?
+Ob'ekt nima?
+Sinfning namunasi ob'ekt deb ataladi.
+
+C++ da qo'llab-quvvatlanadigan meros turlarini sanab o'ting.
+Himoyalangan kirish spetsifikatsiyasining roli qanday?
+Kapsülleme nima?
+Abstraksiya nima?
+Meros nima?
+Volatile kalit so‘zining maqsadini tushuntiring.
+Inline funksiya nima?
+Saqlash klassi nima?
+C++ da saqlash sinflari nomlarini aytib bering.
+O'zgaruvchan saqlash sinfi spetsifikatsiyasining roli qanday?
+Sayoz nusxa va chuqur nusxani farqlang.
+Sof virtual funktsiya nima?
+C++ da abstrakt sinf nima?
+C++ da mos yozuvlar o'zgaruvchisi nima?
+Statik kalit so'zning sinf a'zosi o'zgaruvchisidagi roli qanday?
+Statik a'zo funksiyasini tushuntiring.
+C++ da keng belgilarni saqlash uchun ishlatilishi mumkin bo'lgan ma'lumotlar turini nomlang.
+Sinf a'zolariga kirish uchun qanday operator/operatorlar ishlatiladi?
+Sinf/tuzilma a'zosi o'zgaruvchisini xuddi shu belgilanishi bilanoq ishga tushira olamizmi?
+Mantiqiy qiymatni saqlash uchun ma'lumotlar turi qanday?
+Funktsiyani haddan tashqari yuklash nima?
+Operatorning haddan tashqari yuklanishi nima?
+Bizda C++ da String ibtidoiy ma'lumotlar turi bormi?
+C++ da standart standart oqimlarni nomlang.
+Qaysi kirish spesifikaci/lar C++ da ma'lumotlarni yashirishga yordam beradi?
+Sinf a'zosi sinfdan tashqarida aniqlanganda, funksiya ta'rifini ma'lum bir sinfga bog'lash uchun qaysi operatordan foydalanish mumkin?
+Destruktor nima? Haddan tashqari yuklanishi mumkinmi?
+Konstruktor nima?
+Standart konstruktor nima? Sinfimiz uchun bittasini bera olamizmi?
+C++ da dinamik xotirani ajratish uchun qaysi operatordan foydalanish mumkin?
+"O'chirish" operatorining maqsadi nima?
+C++ da dinamik xotirani ajratish uchun C tilining malloc() funksiyasidan foydalana olamanmi?
+C tilining malloc() funksiyasi yordamida ajratilgan xotirani bo'shatish uchun "delete" operatoridan foydalansam bo'ladimi?
+Do'st funktsiyasi nima?
+Nusxa ko'chirish konstruktori nima?
+C++ istisnolardan foydalanishni qo'llab-quvvatlaydimi? Agar shunday bo'lsa, xuddi shu narsaga erishish uchun qanday kalit so'zlar mavjud.
+Ko'rsatkichni tushuntiring - bu.
+C++ tilidagi struct va class kalit so'zlari o'rtasidagi farq nima?
+OOPS ning barcha tushunchalarini struct kalit so'zidan foydalanib amalga oshira olamizmi?
+C++ da blok doirasi o'zgaruvchisi nima?
+ios::trunk faylni ochish rejimi qanday rol o'ynaydi?
+Qamrovni aniqlash operatori nima?
+Nom maydoni nima?
+Buyruqlar qatori argumentlari nima?
+Sinf shabloni nima?
+Qanday qilib biz bitta tutqich blokida barcha turdagi istisnolarni qo'lga olishimiz mumkin?
+Auto kalit so'zi nima uchun?
+Statik o'zgaruvchi nima?
+Tashqi xotira spetsifikatsiyasining maqsadi nima.
+Massivning asosiy manzili nimani anglatadi?
+Registrni saqlash spetsifikatsiyasidan qachon foydalanishimiz kerak?
+Dasturni main() funksiyasisiz kompilyatsiya qilish mumkinmi?
+Avtomatik o'zgaruvchi qayerda saqlanadi?
+Konteyner sinfi nima?
+Token nima?
+Preprotsessor nima?
+Buyruqlar qatori argumentlari nima?
+Funktsiyalarga parametrlarni o'tkazishning turli usullari qanday? Qaysisini qachon ishlatish kerak?
+5,0% 2 uchun eslatma nima?
+G++ kompilyatori yordamida matematik kutubxona yordamida dasturlarni kompilyatsiya qilish uchun qaysi kompilyator kalitidan foydalanish kerak?
+"Yangi" operator yordamida ajratilgan xotira hajmini o'zgartira olamizmi?
+C++ dasturlash tilini kim yaratgan?
+Ma'lumotlar turi/sinfi yoki o'zgaruvchi/ob'ekt hajmini aniqlash uchun qaysi operatordan foydalanish mumkin?
+Mahalliy va global o'zgaruvchining nomlari bir xil bo'lsa, global o'zgaruvchiga qanday murojaat qilishimiz mumkin?
+Ko'rsatkichlar ustida qanday amallar amal qiladi?
+Rekursiya nima?
+Argument vektori w.r.t buyruq qatori argumentlaridagi birinchi qator nima?
+Identifikatorning maksimal uzunligi qancha?
+Standart funktsiyani chaqirish usuli nima?
+Bir sinfni boshqasidan meros qilib olish uchun qanday meros usullari mavjud?
+O'chirish va o'chirish[] o'rtasidagi farq nima?
+C++ dagi mavhum sinf barcha sof virtual funktsiyalarni saqlashi kerakmi?
+Olingan sinf ko'rsatkichiga asosiy sinf ob'ektini belgilash qonuniymi?
+Agar istisno sinov blokidan tashqariga tashlansa nima bo'ladi?
+Istisnolar va xatoliklar bir xilmi?
+Funktsiyani bekor qilish nima?
+Oqimdan ma’lumotlarni o‘qish maqsadida oqim ko‘rsatkichini ko‘chirish uchun qaysi funksiyadan foydalaniladi?
+Oqimdan ma’lumotlarni yozish maqsadida oqim ko‘rsatgichini ko‘chirish uchun qaysi funksiyadan foydalaniladi?
+Ob'ekt hajmining bir qismi sifatida sinf funktsiyalari hisobga olinadimi?
+Biz sinf yaratib, bo'shatishimiz mumkinmi? Agar shunday bo'lsa, bunday ob'ektning o'lchami qanday bo'ladi.
+"std" nima?
+STL ning to'liq shakli nima?
+"Cout" nima?
+"cin" nima?
+"Foydalanish" kalit so'zi nima uchun ishlatiladi?
+Agar sinf uchun ko'rsatgich e'lon qilingan bo'lsa, uning sinf a'zolariga kirish uchun qaysi operatordan foydalanish mumkin?
+Sarlavha faylini burchakli qavslar bilan kiritish " " o'rtasidagi farq nima?
+S++ yoki S = S+1, qaysi qiymatni 1 ga oshirish tavsiya etiladi va nima uchun?
+Haqiqiy va rasmiy parametrlar o'rtasidagi farq nima?
+O'zgaruvchilar deklaratsiyasi va o'zgaruvchilar ta'rifi o'rtasidagi farq nima?
+Shartsiz tarmoqlanishni bajarish uchun qaysi kalit so'z ishlatiladi?
+068 to'g'ri sakkizlik raqammi?
+#undef preprocessorning maqsadi nima?
+Ko'p qatorli izohlarni C++ kodiga joylashtira olamizmi?
+Virtual destruktor nima?
+Memda yo'q qilingan ob'ektlarning tartibi qanday

@@ -1,5 +1,4 @@
-                 1 - modul, 1 - lesson
-                "Computer program nima ?",
+"Computer program nima ?",
                 "Nima uchun hamma dasturlashni o'rganishi kerak ?",
                 "Java birinchi nomi nima edi ?",
                 "Java nechta featurelar bor ?",
@@ -12,8 +11,6 @@
                 "Devtools nima ?",
                 "JDK components ?",
                 "Bytecode nima ?)",
-
-                // 1 - modul, 2 - lesson
                 "Token nima ?",
                 "Translation unit nima ?",
                 "Java-da Tokenlarni nechta type mavjud ?",
@@ -33,8 +30,6 @@
                 "Javani nechinchi versiyasida Console taqdim etilgan ?",
                 "Scanner va Console o'rtasidagi farq ?",
                 "Scanner class va undan foydalanish",
-
-                // 1 - modul, 3 - lesson
                 "Java-da Operator nima ?",
                 "Operandlar soniga qarab Operatorlar nechi turga bo'linadi ?",
                 "Unary operator nima ?",
@@ -50,8 +45,6 @@
                 "Java nechta turdagi Logical operatorlarni qo'llab quvvatlaydi ?",
                 "Java-da Assignment operator nima ?",
                 "x += y va x = x + y expressionlari o'rtasida farq bormi?",
-
-                // 1 - modul, 4 - lesson
                 "Execution Flow nima ?",
                 "Control Flow nima?",
                 "if nima ?",
@@ -62,8 +55,6 @@
                 "Switch statement qanday ishlaydi ?",
                 "Unicode system nima uchun kerak ?",
                 "ansi escape code nima ?",
-
-                // 1 - modul, 5 - lesson
                 "Function nima ?",
                 "Function va Method o'rtasidagi farq nima ?",
                 "Method Definition nima ?",
@@ -76,14 +67,10 @@
                 "Method qachon recursive method deb ataladi ?",
                 "Group of recursions ?",
                 "Type of recursions ?",
-
-                // 1 - modul, 6 - lesson
                 "Java-da String nima ?",
                 "Java-da String ni nechi xil usulda yaratishimiz mumkin ?",
                 "Java-da String nima uchun immutable ?",
                 "Java-da String classning superclassni nima?",
-
-                // 1 - modul, 7 - lesson
                 "Array nima ?",
                 "Java-da Arrayni qanday e'lon qilishimiz mumkin ?",
                 "Turli data typelar uchun Arrayning default qiymat qanday ?",
@@ -98,8 +85,6 @@
                 "Java-da Jagged Array nima ?",
                 "Array ni afzalliklari nimada ?",
                 "Array ni kamchiliklari nimada ?",
-
-                // 1 - modul, 8 - lesson
                 "Java-da String Constant pool nima ?",
                 "Java-da String literal nima ?",
                 "String literal xotirada qanday saqlanadi ?",
@@ -116,8 +101,6 @@
                 "String classni kamchiliklari ?",
                 "String wrapper classmi ?",
                 "String intern() method nima uchun ishlatiladi ?",
-
-                // 1 - modul, 9 - lesson
                 "Java-da Formatting nima ?",
                 "String classni format() method javani nechinchi versiyasida taqdim etilgan ?",
                 "String classni format method qachon ishlatishimiz kerak ?",
@@ -125,16 +108,11 @@
                 "Java-da MessageFormat class nima uchun ishlatamiz ?",
                 "MessageFormat format() method nima ?",
                 "string format methodiga bitta misol yozing.",
-                "string format method foydalanib kirib kelgan strngga \"Welcome to \" " +
-                        "qo'shimchasini qo'shib ekranga chiqaruvchi dastur yozing.",
-
-                // 1 - modul, 10 - lesson
+                "string format method foydalanib kirib kelgan strngga \"Welcome to \" " +"qo'shimchasini qo'shib ekranga chiqaruvchi dastur yozing.",
                 "Programming Principles nima ?",
                 "Qanday qilib effective code yozasiz ?",
                 "DRY nima ?",
                 "KISS nima ?",
-
-                // 2 - modul, 1 - lesson
                 "Programming paradigms nima va ular qaysilar ?",
                 "Procedural Programming nima ?",
                 "OOP nima ?",
@@ -158,8 +136,6 @@
                 "Copy Constructor qanaqa constructor ?",
                 "Chaining Constructor qanaqa constructor ?",
                 "Compact Constructor qanaqa constructor ?",
-
-                // 2 - modul, 2 - lesson
                 "Encapsulation nima ? Nimaga Data hiding deyiladi ?",
                 "Encapsulationga qanday erishamiz ?",
                 "Encapsulationga qanday afzalliklari bor ?",
@@ -169,8 +145,6 @@
                 "Packagelarni qanday nomlash kerak ?",
                 "Package azolari (members) deb nimaga aytiladi ?",
                 "Tashqaridagi package azolaridan qanday foydalanish turlari bor ?",
-
-                // 2 - modul, 3 - lesson
                 "Inheritance nima ?",
                 "Inheritance nima uchun kerak ?",
                 "Inheritancening qanaqa turlari bor ? va misollar keltiring.",
@@ -192,8 +166,6 @@
                 "Is-A munosabatga erishi uchun qanday keywordlar ishlatiladi ?",
                 "Has-A munosabating qanday turlari bor ?",
                 "Composition, Aggregation va Association farqlari ?",
-
-                // 2 - modul, 4 - lesson
                 "Polymorphism nima ?",
                 "Polymorphismning turlari ?",
                 "Static Polymorphism nima ?",
@@ -216,8 +188,6 @@
                 "Final methodlarni override qila olamizmi ?",
                 "Private methodlarni override qila olamizmi ?",
                 "Protected bolgan methodni override qilib boshqa access modifier bilan elon qila olamizmi?",
-
-                // 2 - modul, 5 - lesson
                 "Abstraction nima ?",
                 "Abstractionga qanday erishiladi ?",
                 "Concrete class qanday class ?",
@@ -241,8 +211,6 @@
                 "Marker interface qanday interface ?",
                 "Marker interfacega misollar keltiring.",
                 "Marker interfacega bosh interface bo'lsa nima uchun kerak ?.",
-
-                // 2 - modul, 6 - lesson
                 "Wrapper Classlar nima ?",
                 "Wrapper Classlar nimaga kerak ?",
                 "Qanday Wrapper Classlar mavjud ?",
@@ -262,8 +230,6 @@
                 "Inner Classning qanaqa turlari bor ?",
                 "Static Inner Class Outer Classning non-static fieldlarga murojat qiloladimi ?",
                 "Local innner class larni access modifierlar bilan e'lon qilib bo'ladimi ?",
-
-                // 2 - modul, 7 - lesson
                 "Memory Management ?",
                 "Xotira turlari ?",
                 "Qaysilari asosiy xotiralar ?",
@@ -287,8 +253,6 @@
                 "Garbage Collector nima va uning vazifasi ?",
                 "JVM Garbage Collector qanday bosqichlarni oz ichiga oladi ?",
                 "Sweeping turlari qanday ?",
-
-                // 2 - modul, 8 - lesson
                 "non-access modifiers turlari?",
                 "Har bir non-access modifier qayerlarda ishlatiladi ?",
                 "Record claasslar qanday classlar ?",
@@ -301,8 +265,6 @@
                 "Static va Instance Initializer block farqlari?",
                 "Variable Shadowing nima ?",
                 "Variable hiding nima ?",
-
-                // 2 - modul, 9 - lesson
                 "Type inference nima?",
                 "Var keywordni qachon ishlata olamiz, qachon ishlata olmaymiz ?",
                 "Enum classlar qanday classlar ?",
@@ -318,8 +280,6 @@
                 "Builder nima?",
                 "Sinf yaratyapganda nimalarga e'tibor berish kerak?",
                 "JShell nima ?",
-
-                // 2 - modul, 10 - lesson
                 "Objects classi qanday class?",
                 "Objects classini qanday methodlari bor?",
                 "JavaDoc nima ?",
@@ -330,8 +290,6 @@
                 "UUID nima ?",
                 "UUID nima uchun kerak ?",
                 "UUIDDagi M va N nimani bildiradi ?",
-
-                // 3 - modul, 1 - lesson
                 "Exception nima ?",
                 "Nima sabli exceptionlar yuzaga keladi ?",
                 "Nima uchun exceptionlar haqida qaygurish kerak ?",
@@ -352,8 +310,6 @@
                 "Exceptionning qanday turlari bor",
                 "Uncheck exception va checked exception farqlari qanday?",
                 "Exceptionlardan foydalanish uchun qanday maslahatlar beriladi?",
-
-                // 3 - modul, 2 - lesson
                 "Genericlar nima ?",
                 "Genericlarning foydali tomonlari ?",
                 "Genericlarni qayerlarda elon qila olamiz ?",
@@ -370,8 +326,6 @@
                 "Genericlarda qanday checklovlar mavjud ?",
                 "Genericlardan qanday qoida bor vorisliklar bilan ishlaganda ?",
                 "Genericlarda SuperClass type da elan qilingan arrayga sub class arrayini ozlashtira olamizmi ?",
-
-                // 3 - modul, 3 - lesson
                 "Arraylar bilan qanday muammo bor ?",
                 "Dynamic arraylarning qulay taraflari qanday?",
                 "Collections Framework nima?",
@@ -399,8 +353,6 @@
                 "ArrayList ni kamchiliklari ?",
                 "ArrayList ning loadFactorysi nechi foiz ?",
                 "ArrayList dan elementlarni olishni nechi xil usuli mavjud ?",
-
-                // 3 - modul, 4 - lesson
                 "LinkedList nima ?",
                 "LinkedList elementlarni xotirada qanday saqlaydi ?",
                 "LinkedListning qanday turlari bor ?",
@@ -423,8 +375,6 @@
                 "Vektor thread-safemi ? bo'lsa nima uchun ?",
                 "Vektor dan elementlarni nechi xil usulda olishimiz mumkin ?",
                 "Vektor ga iteratsiya paytida o'zgartirish kiritsak nima bo'ladi ?",
-
-                // 3 - modul, 5 - lesson
                 "Set nima ?",
                 "Set ni asosiy xususiyatlari ?",
                 "Set interfaceni subclassni aytib bering.",
@@ -451,8 +401,6 @@
                 "TreeSet hierarchysini aytib bering ?",
                 "TreeSet elementlarni saqlash uchun internal nimadan foydalanadi ?",
                 "TreeSet ga iteratsiya paytida o'zgartirish kiritsak nima bo'ladi ?",
-
-                // 3 - modul, 6 - lesson
                 "Queue nima ?",
                 "FIFO nima ?",
                 "Queue Interface methodlarni aytib bering ?",
@@ -469,8 +417,6 @@
                 "Deque ni hierarchysini aytib bering ?",
                 "Deque ni asosiy xususiyatlarni ayting ?",
                 "LIFO nima ?",
-
-                // 3 - modul, 7 - lesson
                 "Map nima ?",
                 "Map interfaceni subclasslarni sanab bering ?",
                 "Map asosiy xususiyatlari ?",
@@ -510,8 +456,6 @@
                 "WeakHashMap ga nechtagacha null key qo'shimiz mumkin ?",
                 "WeakHashMap ga duplicate key qo'shimiz mumkin ?",
                 "WeakHashMap va HashMap o'rtasidagi farq ?",
-
-                // 3 - modul, 8 - lesson
                 "View nima ?",
                 "Empty View bizga nima uchun kerak ?",
                 "Unmodifiable views nima ?",
@@ -528,8 +472,6 @@
                 "Fail-Safe iterators nima ?",
                 "Fail-Fast iterators nima ?",
                 "Fail-Fast va Fail-Safe o'rtasidagi farq ?'",
-
-                // 3 - modul, 9 - lesson
                 "Collections nima ?",
                 "Collections classini sort() methd nima qiladi ?",
                 "Collections classini shuffle() methd nima qiladi ?",
@@ -540,8 +482,6 @@
                 "Optional classni Java-ga nima maqsadda qo'shilgan ?",
                 "SOLID nima ?",
                 "SOLID tushintirib bering ?",
-
-                // 3 - modul, 10 - lesson
                 "Properties nima ?",
                 "Propertieslardan foydalanamiz ?",
                 "Propertieslar qaysi filelardan o'qish va yozishimiz mumkin ?",
@@ -564,8 +504,6 @@
                 "Wildcard Typelardan qanday holatlarda foydalanishimiz kerak ?",
                 "Wildcard Type Java-ni nechinchi versiyasida qo'shilgan ?",
                 "super va extends keywordlarni tushintirib bering ?",
-
-                // 4 - modul, 1 - lesson
                 "Multitasking nima ?",
                 "Multitasking va Multithreading o'rtasidagi farq ?",
                 "Concurrency nima ?",
@@ -590,8 +528,6 @@
                 "Daemon thread qachon foydalanish kerak ?",
                 "Thread priority nima ?",
                 "Thread priority yuqori bo'lgan threadlar bilan past bo'lgan thread o'rtasidagi farq ?",
-
-                // 4 - modul, 2 - lesson
                 "Race condition qanday muammo ?",
                 "Race condition qanday qilib oldini olishimiz mumkin ?",
                 "Lock nima ?",
@@ -612,8 +548,6 @@
                 "Deadlock nima ? misol keltiring.",
                 "Thread Deadlock holatiga tushib qolmasligi uchun nima qilishimz kerak ?",
                 "Livelock va Deadlock o'rtasidagi farq ?",
-
-                // 4 - modul, 3 - lesson
                 "Atomics nima ?",
                 "Nima uchun Atomic Classlar foydalanishimiz kerak ?",
                 "Atomic Operation qanday ishlaydi ?",
@@ -630,8 +564,6 @@
                 "Java-dagi immutable classlarni sanab bering ?",
                 "Immutable classlar thread-safemi ?",
                 "Thread-safe bo'lsa nima uchun ?",
-
-                // 4 - modul, 4 - lesson
                 "Thread Pools nima ?",
                 "Executor Framework qanday framework ?",
                 "Executor Framework nima maqsadda Javani 5chi versiyasida qoshilgan ?",
@@ -650,8 +582,6 @@
                 "ThreadLocalRandom nima ?",
                 "ThreadLocal qanday holatlarda foydalanishimiz kerak ?",
                 "ThreadLocal withInitial() static method nima uchun ishlatamiz ?",
-
-                // 4 - modul, 5 - lesson
                 "Fork Join Framework nima ?",
                 "Fork Join Framework nima uchun javaga qo'shilgan ?",
                 "Fork Join Frameworkni afzalliklari ?",
@@ -664,8 +594,6 @@
                 "CompletableFuture thenApply() method nima uchun ishlatiladi ?",
                 "CompletableFuture thenCompose() method nima uchun ishlatiladi ?",
                 "Singleton Design Pattern nima ?",
-
-                // 4 - modul, 6 - lesson
                 "Date nima ?",
                 "Calendar nima ?",
                 "Calendar, Date classlarni nima uchun ishlatamiz ?",
@@ -680,8 +608,6 @@
                 "Date va LocalDate o'rtasidagi farq ?",
                 "Date va ZonedDate o'rtasidagi farq ?",
                 "Time va LocalTime o'rtasidagi farq ?",
-
-                // 4 - modul, 7 - lesson
                 "Input/Output Stream nima ?",
                 "File class nima ?",
                 "FileInputStream va FileOutputStream classlarni tushintirib bering ?",
@@ -701,8 +627,6 @@
                 "marker interface nima ?",
                 "transient nima ?",
                 "static o'zgaruvchilar serialize bo'ladimi ?",
-
-                // 4 - modul, 8 - lesson
                 "Regular Expression nima ?",
                 "Regular Expression nima uchun ishlatiladi ?",
                 "Pattern nima ?",
@@ -710,8 +634,6 @@
                 "Pattern classini matcher() method nima uchun ishlatiladi ?",
                 "Matcher classini matches() method nima uchun ishlatiladi ?",
                 "Matcher classini find() method nima uchun ishlatiladi ?",
-
-                // 4 - modul, 9 - lesson
                 "Git nima ? Uni qanday ishlatishimiz mumkin.",
                 "Version of control nima ?",
                 "git bizga nima uchun kerak nima ?",
@@ -721,8 +643,6 @@
                 "Gitda merge qilish nima ?",
                 "Git repository nima ?",
                 "Git clone nima qiladi ?",
-
-                // 4 - modul, 10 - lesson
                 "Logging nima ?",
                 "Log tashlash bizga nima uchun kerak ?",
                 "Logging javani nechinchi versiyasida qo'shilgan ?",
