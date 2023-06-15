@@ -48,7 +48,7 @@ public class MyBot extends TelegramLongPollingBot {
                 Runnable runnable = () -> {
                     try {
 
-                        Thread.sleep(3500);
+                        Thread.sleep(2000);
                         sendDefaultMessage(chatId);
 
                     } catch (InterruptedException e) {
@@ -69,61 +69,94 @@ public class MyBot extends TelegramLongPollingBot {
 
     private void sendPdfDocument(Long chatId, Update update, String text) {
 
-        File javaScriptpdfFile = new File("docs/JavaScriptInterviewBitQuestion_compressed.pdf");
-        File javapdfFile = new File("docs/javaInterview_compressed.pdf");
-        File cpdfFile = new File("docs/C++InterviewQuestion_compressed.pdf");
-        File pythonpdfFile = new File("docs/PythonInterviewQuestion_compressed.pdf");
+        try {
+            File javaScriptpdfFile = new File("docs/JavaScriptInterviewBitQuestion_compressed.pdf");
+            File javapdfFile = new File("docs/javaInterview_compressed.pdf");
+            File cpdfFile = new File("docs/C++InterviewQuestion_compressed.pdf");
+            File pythonpdfFile = new File("docs/PythonInterviewQuestion_compressed.pdf");
 
-        switch (text) {
-            case "Javascript dan savollarga tayyorlanish" -> {
-                SendDocument sendDocument = new SendDocument();
-                sendDocument.setChatId(chatId);
-                sendDocument.setDocument(new InputFile(javaScriptpdfFile));
-                try {
-                    execute(sendDocument);
-                } catch (Exception e) {
-                    e.printStackTrace();
-                }
+            switch (text) {
+                case "Javascript dan savollarga tayyorlanish" -> {
+                    SendDocument sendDocument = new SendDocument();
+                    sendDocument.setChatId(chatId);
+                    sendDocument.setDocument(new InputFile(javaScriptpdfFile));
+                    try {
+                        execute(sendDocument);
+                    } catch (Exception e) {
+                        e.printStackTrace();
+                    }
+                    sendDocument.setChatId(chatId);
+                    sendDocument.setDocument(new InputFile(new File("javascript.txt")));
+                    try {
+                        execute(sendDocument);
+                    } catch (Exception e) {
+                        e.printStackTrace();
+                    }
 
-            }
-            case "Java dan savollarga tayyorlanish" -> {
-                SendDocument sendDocument = new SendDocument();
-                sendDocument.setChatId(chatId);
-                sendDocument.setDocument(new InputFile(javapdfFile));
-                try {
-                    execute(sendDocument);
-                } catch (Exception e) {
-                    e.printStackTrace();
                 }
+                case "Java dan savollarga tayyorlanish" -> {
+                    SendDocument sendDocument = new SendDocument();
+                    sendDocument.setChatId(chatId);
+                    sendDocument.setDocument(new InputFile(javapdfFile));
+                    try {
+                        execute(sendDocument);
+                    } catch (Exception e) {
+                        e.printStackTrace();
+                    }
+                    sendDocument.setChatId(chatId);
+                    sendDocument.setDocument(new InputFile(new File("interviewquestion.txt")));
 
-            }
-            case "C++ dan savollarga tayyorlanish" -> {
-                SendDocument sendDocument = new SendDocument();
-                sendDocument.setChatId(chatId);
-                sendDocument.setDocument(new InputFile(cpdfFile));
-                try {
-                    execute(sendDocument);
-                } catch (Exception e) {
-                    e.printStackTrace();
-                }
+                    try {
+                        execute(sendDocument);
+                    } catch (Exception e) {
+                        e.printStackTrace();
+                    }
 
-            }
-            case "Python dan savollarga tayyorlanish" -> {
-                SendDocument sendDocument = new SendDocument();
-                sendDocument.setChatId(chatId);
-                sendDocument.setDocument(new InputFile(pythonpdfFile));
-                try {
-                    execute(sendDocument);
-                } catch (Exception e) {
-                    e.printStackTrace();
                 }
+                case "C++ dan savollarga tayyorlanish" -> {
+                    SendDocument sendDocument = new SendDocument();
+                    sendDocument.setChatId(chatId);
+                    sendDocument.setDocument(new InputFile(cpdfFile));
+                    try {
+                        execute(sendDocument);
+                    } catch (Exception e) {
+                        e.printStackTrace();
+                    }
+                    sendDocument.setChatId(chatId);
+                    sendDocument.setDocument(new InputFile(new File("c++.txt")));
+                    try {
+                        execute(sendDocument);
+                    } catch (Exception e) {
+                        e.printStackTrace();
+                    }
 
-            }
-            default -> {
-                if (text.contains(" dan savollarni ishlash")) {
-                    startQuestionTest(update, chatId);
+                }
+                case "Python dan savollarga tayyorlanish" -> {
+                    SendDocument sendDocument = new SendDocument();
+                    sendDocument.setChatId(chatId);
+                    sendDocument.setDocument(new InputFile(pythonpdfFile));
+                    try {
+                        execute(sendDocument);
+                    } catch (Exception e) {
+                        e.printStackTrace();
+                    }
+                    sendDocument.setChatId(chatId);
+                    sendDocument.setDocument(new InputFile(new File("python.txt")));
+                    try {
+                        execute(sendDocument);
+                    } catch (Exception e) {
+                        e.printStackTrace();
+                    }
+
+                }
+                default -> {
+                    if (text.contains(" dan savollarni ishlash")) {
+                        startQuestionTest(update, chatId);
+                    }
                 }
             }
+        }catch (Exception e){
+            e.printStackTrace();
         }
 
     }
