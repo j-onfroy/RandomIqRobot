@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -cp target/classes:target/dependency/* org.example.Main
+worker: sh target/bin/randomBot
