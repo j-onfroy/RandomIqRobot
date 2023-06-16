@@ -1,1 +1,1 @@
-worker: sh target/bin/randomBot
+worker: sh target/bin/RandomIqBot
