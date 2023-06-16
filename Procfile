@@ -1,1 +1,1 @@
- worker: sh target/bin/RandomIqBot
+web: java $JAVA_OPTS -cp target/classes:target/dependency/* com.company.Main
