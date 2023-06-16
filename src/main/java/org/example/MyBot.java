@@ -24,12 +24,12 @@ import java.util.Random;
 public class MyBot extends TelegramLongPollingBot {
     @Override
     public String getBotUsername() {
-        return "wikimchabot";
+        return "inqurobot";
     }
 
     @Override
     public String getBotToken() {
-        return "5843189689:AAFj0PcvKQ5UeZjFCdYLpVtaFNegxfzXUqM";
+        return "6191329517:AAF1glQdyzOck46GCefI08gRJyXrtdkyfwM";
     }
 
     @Override
@@ -58,9 +58,13 @@ public class MyBot extends TelegramLongPollingBot {
                 if (text.equals("/start")) {
                     Thread thread = new Thread(runnable);
                     thread.start();
+                }else if (text.equals("ortga qaytish")){
+                    sendDefaultMessage(chatId);
                 }
                 chooseProgrammingLanguage(chatId, update, text);
                 sendPdfDocument(chatId, update, text);
+
+
             }
         } catch (Exception e) {
             e.printStackTrace();
@@ -227,6 +231,15 @@ public class MyBot extends TelegramLongPollingBot {
                     } catch (Exception e) {
                         e.printStackTrace();
                     }
+                }case "ortga qaytish" ->{
+                    SendMessage sendMessage = new SendMessage();
+                    sendMessage.setChatId(chatId);
+                    sendMessage.setText("Siz ortga qaytdingiz");
+                    try {
+                        execute(sendMessage);
+                    } catch (Exception e) {
+                        e.printStackTrace();
+                    }
                 }
             }
         } catch (Exception e) {
@@ -337,6 +350,7 @@ public class MyBot extends TelegramLongPollingBot {
     }
 
     private void getLanguage(String languageProgramming, Long chatId) {
+
         SendMessage message = new SendMessage();
         ReplyKeyboardMarkup keyboardMarkup = getOptionalCommand(languageProgramming);
         message.setChatId(chatId);
@@ -386,11 +400,13 @@ public class MyBot extends TelegramLongPollingBot {
         keyboardMarkup.setResizeKeyboard(true);
 
         KeyboardRow row1 = new KeyboardRow();
+        KeyboardRow row2 = new KeyboardRow();
 
         row1.add(new KeyboardButton(languageProgramming + " dan savollarni ishlash"));
         row1.add(new KeyboardButton(languageProgramming + " dan savollarga tayyorlanish"));
+        row2.add(new KeyboardButton(" ortga qaytish"));
 
-        keyboardMarkup.setKeyboard(List.of(row1));
+        keyboardMarkup.setKeyboard(List.of(row1,row2));
         return keyboardMarkup;
     }
 }
