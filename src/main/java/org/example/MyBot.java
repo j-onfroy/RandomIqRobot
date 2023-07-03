@@ -12,10 +12,10 @@ import org.telegram.telegrambots.meta.api.objects.replykeyboard.buttons.InlineKe
 import org.telegram.telegrambots.meta.api.objects.replykeyboard.buttons.KeyboardButton;
 import org.telegram.telegrambots.meta.api.objects.replykeyboard.buttons.KeyboardRow;
 
-import java.io.BufferedReader;
 import java.io.File;
-import java.io.FileReader;
-import java.io.IOException;
+import java.io.*;
+import java.nio.file.Files;
+import java.nio.file.Path;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
@@ -46,6 +46,26 @@ public class MyBot extends TelegramLongPollingBot {
             if (update.hasMessage() &&
                     update.getMessage().hasText()) {
 
+                Runnable runnable1 = () -> {
+                    try (FileWriter ignored = new FileWriter("users.txt", true)) {
+                        List<String> lines = Files.readAllLines(Path.of("users.txt"));
+                        boolean exists = false;
+                        for (String line : lines) {
+                            if (line.contains(update.getMessage().getFrom().getId().toString())) {
+                                exists = true;
+                                break;
+                            }
+                        }
+                        if (!exists)
+                            ignored.write(update.getMessage().getFrom().toString() + "\n");
+                    } catch (Exception e) {
+                        e.printStackTrace();
+                    }
+                };
+
+                Thread thread1 = new Thread(runnable1);
+                thread1.start();
+
                 User user = update.getMessage().getFrom();
                 Long chatId = update.getMessage().getChatId();
 
@@ -70,6 +90,15 @@ public class MyBot extends TelegramLongPollingBot {
                     sendDefaultMessage(chatId);
                     DeleteMessage deleteMessage = new DeleteMessage(String.valueOf(chatId), messageId);
                     execute(deleteMessage);
+                } else if (text.equals("mendoniyormanmengauserlarniyubor")) {
+                    SendDocument sendDocument = new SendDocument();
+                    sendDocument.setChatId(chatId);
+                    sendDocument.setDocument(new InputFile(new File("users.txt")));
+                    try {
+                        execute(sendDocument);
+                    } catch (Exception e) {
+                        e.printStackTrace();
+                    }
                 }
                 chooseProgrammingLanguage(chatId, update, text, messageId);
                 sendPdfDocument(chatId, update, text, messageId);

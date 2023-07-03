@@ -1,0 +1,2 @@
+User(id=1806459310, firstName=Doniyor, isBot=false, lastName=null, userName=davlataliev, languageCode=ru, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null)
+User(id=5993838612, firstName=Alisher, isBot=false, lastName=null, userName=javabackenddeveloper, languageCode=en, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null)
