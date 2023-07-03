@@ -1,3 +1,53 @@
+Python ning asosiy xususiyatlari nima?
+Python 2 va Python 3 o'rtasidagi asosiy farq nima?
+Dynamic typing va static typing nimalardir? Python qaysi turga kiradi?
+Python da GIL (Global Interpreter Lock) nima uchun kerak?
+List, tuple va set obyektlari orasidagi farq nima?
+Python da "mutable" va "immutable" obyektlar nima?
+List comprehension va generator expression orasidagi farq nima?
+Python da namespace nima?
+Decoratorlar Python da qanday ishlatiladi?
+Python da iterator va iterable nimalardir?
+*args va **kwargs nimalardir?
+Python da module va package orasidagi farq nima?
+Python da lambda ifodasi qanday ishlatiladi?
+Python da duck typing nima?
+Python da file yozish va o'qish qanday amalga oshiriladi?
+Python da exception handling qanday ishlatiladi?
+Python da class va obyekt orasidagi farq nima?
+Python da dunder (double underscore) metodlar nima?
+Python da "is" va "==" operatorlari orasidagi farq nima?
+Python da garbage collection qanday ishlaydi?
+Python da metaclass nima?
+Python da threading va multiprocessing orasidagi farq nima?
+Python da virtual environment (venv) qanday yaratiladi?
+Python da JSON ishlash qanday amalga oshiriladi?
+Python da module import qilish qanday amalga oshiriladi?
+Python da global va local o'zgaruvchilar orasidagi farq nima?
+Python da listelerda slicing qanday ishlatiladi?
+Python da regular expressions (regex) qanday ishlatiladi?
+Python da function decorators qanday ishlatiladi?
+Python da dictionary (lug'at) obyekti qanday ishlatiladi?
+Python da name mangling qanday ishlatiladi?
+Python da metaprogramming qanday amalga oshiriladi?
+Python da set va frozenset obyektlari orasidagi farq nima?
+Python da property decorator qanday ishlatiladi?
+Python da namespace ve so'zlar orasidagi farq nima?
+Python da "self" kalit so'zi nima?
+Python da concurrent.futures moduli qanday ishlatiladi?
+Python da list comprehension vs map() va filter() funksiyalari orasidagi farq nima?
+Python da virtualenv qanday ishlatiladi?
+Python da datetime moduli qanday ishlatiladi?
+Python da mutable va immutable obyektlar orasidagi farq nima?
+Python da classmethod va staticmethod orasidagi farq nima?
+Python da metaclasslar nima uchun kerak?
+Python da "yield" ifodasi qanday ishlatiladi?
+Python da deep copy va shallow copy orasidagi farq nima?
+Python da zip() va unzip() qanday ishlatiladi?
+Python da isinstance() va type() funksiyalari orasidagi farq nima?
+Python da generatorlar qanday ishlatiladi?
+Python da try-except-else-finally bloklari orasidagi farq nima?
+Python da recursion qanday ishlatiladi?
 Python dasturlash tili haqida qisqacha gap bering.
 Python3 va Python2 o'rtasidagi asosiy farqlarni tushunishingiz qanday?
 Python3 integer va float turidagi ma'lumotlar orasidagi asosiy farqlar nimalardir?
@@ -167,8 +217,6 @@ Stringdagi barcha takrorlanmaydigan belgilarni chop etish uchun Python dasturi.
 Python dasturi bir satrni boshqa qatorga nusxalash uchun.
 Python dasturi satr belgilarini o'sish tartibida tartiblash uchun.
 Python dasturi satr belgilarini kamayish tartibida tartiblash uchun.
-
-
 Massivda Python kodlash savollari
 Pythonda dastur yozing, massivda 1-100 ta raqam saqlanadi, bitta raqam etishmayotgan uni qanday topasiz.
 Pythonda dastur yozing, massivda 1 dan 100 gacha bir nechta sonlar dublikatdir, uni qanday topish mumkin.

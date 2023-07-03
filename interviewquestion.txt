@@ -1,41 +1,104 @@
-"Computer program nima ?",
-                "Nima uchun hamma dasturlashni o'rganishi kerak ?",
+                Java'da "pass by value" va "pass by reference" o'rtasidagi farq nima?
+                Java'da "deadlock" nima?
+                Java'da "race condition" nima?
+                Java'da "asynchrony" va "concurrency" o'rtasidagi farq nima?
+                Java'da "memory leak" nima?
+                Java'da "String" obyektlari uchun "+" operatori va "StringBuilder" yordamida matn biriktirish o'rtasidagi farq qanday?
+                Java'da "checked" va "unchecked" istisnolar o'rtasidagi farq nima?
+                Java'da "ClassCastException" qachon va qanday paydo bo'ladi?
+                Java'da "NullPointerException" qanday paydo bo'ladi va uni qanday tuzatish mumkin?
+                Java'da "StackOverflowError" qanday paydo bo'ladi va uni qanday tuzatish mumkin?
+                Java'da "OutOfMemoryError" qanday paydo bo'ladi va uni qanday tuzatish mumkin?
+                Java'da "volatile" kalit so'zi qanday ishlaydi va qanday holatda foydalanish kerak?
+                Java'da "ThreadLocal" qanday ishlaydi va qanday holatda foydalanish kerak?
+                Java'da "equals()" va "hashCode()" metodlarini qanday to'g'ri vaqtida yozish kerak?
+                Java'da "try-with-resources" blokining maqsadi nima?
+                Java'da "strictfp" kalit so'zi qanday ishlaydi va qanday holatda foydalanish kerak?
+                Java'da "finalize()" metodini qanday to'g'ri vaqtida yozish kerak?
+                Java'da "JNI" (Java Native Interface) qanday ishlaydi va qanday holatda foydalanish kerak?
+                Java'da "Reflection" qanday ishlaydi va qanday holatda foydalanish kerak?
+                Java'da "classloader"lar qanday ishlaydi va qanday holatda foydalanish kerak?
+                Java'da "immutable" sinflar qanday yaratiladi va qanday foydalaniladi?
+                Java'da "transient" va "volatile" kalit so'zlarining ma'nosi va foydalanish sohalarining farqi nima?
+                Java'da "method overriding"ning qanday holatlarida "super" kalit so'zini ishlatish kerak?
+                Java'da "serialization" qanday ishlaydi va qanday holatda foydalanish kerak?
+                Java'da "inner class" va "static nested class" o'rtasidagi farq nima?
+                Java'da "strictfp" qanday ishlaydi va qanday holatda foydalanish kerak?
+                Java'da "anonymous class" qanday yaratiladi va qanday holatda foydalanish kerak?
+                Java'da "classloader"lar qanday ishlaydi va qanday holatda foydalanish kerak?
+                Java'da "package-private" (default) o'zgaruvchi qanday ishlaydi?
+                Java'da "generics" va "wildcards" qanday ishlaydi?
+                Java'da "Reflection API" qanday ishlaydi va qanday holatda foydalanish kerak?
+                Java'da "static final" o'zgaruvchilar qanday ishlaydi?
+                Java'da "method hiding" qanday ishlaydi va qanday holatda foydalanish kerak?
+                Java'da "functional interface" qanday yaratiladi va qanday holatda foydalanish kerak?
+                Java'da "classpath" qanday ishlaydi va qanday holatda foydalanish kerak?
+                Java'da "anonymous class" va "lambda expression" o'rtasidagi farq qanday?
+                Java'da "default methods" qanday ishlaydi va qanday holatda foydalanish kerak?
+                Java'da "double-checked locking" qanday ishlaydi va qanday holatda foydalanish kerak?
+                Java'da "BigDecimal" sinfi qanday ishlaydi va qanday holatda foydalanish kerak?
+                Java'da "method reference" qanday ishlaydi va qanday holatda foydalanish kerak?
+                Java'da "wrapper" sinflari nima va qanday foydalaniladi?
+                Java'da "autoboxing" va "unboxing" qanday ishlaydi?
+                Java'da "synchronized" kalit so'zi qanday ishlaydi va qanday holatda foydalanish kerak?
+                Java'da "hashing" va "equals()" metodlari orqali "HashMap"ni qanday ishlatish mumkin?
+                Java'da "static" blok qanday ishlaydi va qachon ishlatiladi?
+                Java'da "upcasting" va "downcasting" qanday ishlaydi? Farqini tushuntiring.
+                Java'da "try-with-resources" blokini qanday to'g'ri ishlatish kerak?
+                Java'da "annotation"lar qanday ishlaydi va qanday foydalaniladi?
+                Java'da "dependency injection" qanday ishlaydi? Misol bilan tushuntiring.
+                Java'da "annotation processor"lar qanday ishlaydi va qanday holatda foydalanish kerak?
+                Java'da "functional programming" qanday qilish mumkin? Misol bilan ko'rsating.
+                Java'da "stream API"ni qanday ishlatish mumkin? Misol bilan tushuntiring.
+                Java'da "lambda expressions" qanday yaratish va qanday holatda foydalanish kerak?
+                Java'da "asynchronous programming" qanday amalga oshiriladi? Misol bilan tushuntiring.
+                Java'da "reflection"ni qanday ishlatish mumkin? Misol bilan ko'rsating.
+                Java'da "design patterns" qanday foydalanish mumkin? Bir nechta misollar ko'rsating.
+                Java'da "generics" qanday yaratish va qanday holatda foydalanish kerak? Misollar bilan tushuntiring.
+                Java'da "serialization" va "deserialization" qanday amalga oshiriladi? Misollar bilan tushuntiring.
+                Java'da "concurrency" va "thread safety" qanday ta'minlanadi? Misollar bilan tushuntiring.
+                Java'da "JDBC" (Java Database Connectivity) qanday ishlatiladi? Misollar bilan tushuntiring.
+                Java'da "reflection" yordamida sinfning metodlarini qanday chaqirish mumkin? Misollar bilan ko'rsating.
+                Java'da "functional interface"lar qanday yaratish va qanday holatda foydalanish kerak? Misollar bilan tushuntiring.
+                Java'da "file I/O" (input/output) operatsiyalarini qanday amalga oshirish mumkin? Misollar bilan tushuntiring.
+                Javada "Computer program nima ?",
+                Javada "Nima uchun hamma dasturlashni o'rganishi kerak ?",
                 "Java birinchi nomi nima edi ?",
                 "Java nechta featurelar bor ?",
-                "Compiler nima ?",
-                "Interpreter nima ?",
-                "JDK nima ?",
-                "JLS nima ?",
-                "JRE nima ?",
-                "JVM nima ?",
-                "Devtools nima ?",
-                "JDK components ?",
-                "Bytecode nima ?)",
-                "Token nima ?",
-                "Translation unit nima ?",
+                Javada "Compiler nima ?",
+                Javada "Interpreter nima ?",
+                Javada "JDK nima ?",
+                Javada "JLS nima ?",
+                Javada "JRE nima ?",
+                Javada "JVM nima ?",
+                Javada "Devtools nima ?",
+                Javada "JDK components ?",
+                Javada "Bytecode nima ?)",
+                Javada "Token nima ?",
+                Javada "Translation unit nima ?",
                 "Java-da Tokenlarni nechta type mavjud ?",
                 "Java-da Character Set nima ?",
-                "Identifiers nima va Identifiers qoidalari ?",
+                Javada "Identifiers nima va Identifiers qoidalari ?",
                 "Java-da Nechi xil turdagi commentlar bor ?",
                 "Java-da nechta keywordlar bor ?",
                 "Java-da nechta turdagi variablelar mavjud ?",
                 "Java-da primative type bilan non-primative nima farqi bor ?",
-                "Variable scope nima ?",
+                Javada "Variable scope nima ?",
                 "Java-da qancha scopelar mavjud ?",
                 "Java-ni nechinchi versisyasidan Scanner qo'shilgan ?",
-                "Scanner class qanday resourcelardan ma'lumotlarni o'qiy oladi ?",
+                Javada "Scanner class qanday resourcelardan ma'lumotlarni o'qiy oladi ?",
                 "Java-da nechi xil turdagi data type bor?",
-                "Scanner bug ?",
-                "Console class nima ?",
+                Javada "Scanner bug ?",
+                Javada "Console class nima ?",
                 "Javani nechinchi versiyasida Console taqdim etilgan ?",
-                "Scanner va Console o'rtasidagi farq ?",
-                "Scanner class va undan foydalanish",
+                Javada "Scanner va Console o'rtasidagi farq ?",
+                Javada "Scanner class va undan foydalanish",
                 "Java-da Operator nima ?",
-                "Operandlar soniga qarab Operatorlar nechi turga bo'linadi ?",
-                "Unary operator nima ?",
-                "Binary operator nima ?",
-                "Ternary operator nima ?",
-                "Expression nima ?",
+                Javada "Operandlar soniga qarab Operatorlar nechi turga bo'linadi ?",
+                Javada "Unary operator nima ?",
+                Javada "Binary operator nima ?",
+                Javada "Ternary operator nima ?",
+                Javada "Expression nima ?",
                 "Java-da named operator nima ?",
                 "Java-da Arithmetic operator nima ?",
                 "Java-da Arithmetic operationlarni priotiry levellar qanday ?",
@@ -44,36 +107,46 @@
                 "Java-da Logical operatorlar nima ?",
                 "Java nechta turdagi Logical operatorlarni qo'llab quvvatlaydi ?",
                 "Java-da Assignment operator nima ?",
-                "x += y va x = x + y expressionlari o'rtasida farq bormi?",
-                "Execution Flow nima ?",
-                "Control Flow nima?",
-                "if nima ?",
-                "if nima uchun ishlatamiz ?",
-                "Loop nima?",
-                "Loop nima uchun ishlatamiz ?",
+                Javada "x += y va x = x + y expressionlari o'rtasida farq bormi?",
+                Javada "Execution Flow nima ?",
+                Java'da "thread pooling" qanday ishlaydi va qanday holatda foydalanish kerak? Misollar bilan tushuntiring.
+                Java'da "memory management"ning qanday amalga oshirilishi mumkin? Savollarni ko'rsatib, uni tushuntiring.
+                Java'da "concurrent collections" qanday ishlaydi? Misollar bilan tushuntiring.
+                Java'da "class loading" va "classpath" qanday ishlaydi? Misollar bilan tushuntiring.
+                Java'da "JVM internals"ni tushunishingiz borligini ko'rsating. Misollar bilan ta'minlang.
+                Java'da "high-performance computing" uchun qanday usullar va yondashuvlar mavjud? Misollar bilan tushuntiring.
+                Java'da "security"ni qanday ta'minlash mumkin? Xavfsizlikga oid savollarni ko'rsatib, ularni tushuntiring.
+                Java'da "memory leaks"ni aniqlash va ularga qanday to'g'ri kelish mumkin? Misollar bilan tushuntiring.
+                Java'da "concurrency" va "parallelism"ning farqi qanday? Misollar bilan tushuntiring.
+                Java'da "design patterns"ning "senior" darajadagi foydalanishi. Ba'zi ommabop "design patterns"ni misollar bilan ko'rsating.
+                Javada "Control Flow nima?",
+                Javada "if nima ?",
+                Javada "if nima uchun ishlatamiz ?",
+                Javada "Loop nima?",
+                Javada "Loop nima uchun ishlatamiz ?",
                 "Java-da Control Flow ning nechi xil turi mavjud ?",
-                "Switch statement qanday ishlaydi ?",
-                "Unicode system nima uchun kerak ?",
-                "ansi escape code nima ?",
-                "Function nima ?",
-                "Function va Method o'rtasidagi farq nima ?",
-                "Method Definition nima ?",
-                "Method Declaration (header) nima ?",
-                "Method Signature nima ?",
-                "Method body nima ?",
-                "Stack nima ?",
-                "Stack Frame nima ?",
-                "Recursion nima ?",
-                "Method qachon recursive method deb ataladi ?",
-                "Group of recursions ?",
-                "Type of recursions ?",
+                Javada "Switch statement qanday ishlaydi ?",
+                Javada "Unicode system nima uchun kerak ?",
+                Javada "ansi escape code nima ?",
+                Javada "Function nima ?",
+                Javada "Function va Method o'rtasidagi farq nima ?",
+                Javada "Method Definition nima ?",
+                Javada "Method Declaration (header) nima ?",
+                Javada "Method Signature nima ?",
+                Javada "Method body nima ?",
+                Javada "Stack nima ?",
+                Javada "Stack Frame nima ?",
+                Javada "Recursion nima ?",
+                Javada "Method qachon recursive method deb ataladi ?",
+                Javada "Group of recursions ?",
+                Javada "Type of recursions ?",
                 "Java-da String nima ?",
                 "Java-da String ni nechi xil usulda yaratishimiz mumkin ?",
                 "Java-da String nima uchun immutable ?",
                 "Java-da String classning superclassni nima?",
-                "Array nima ?",
+                Javada "Array nima ?",
                 "Java-da Arrayni qanday e'lon qilishimiz mumkin ?",
-                "Turli data typelar uchun Arrayning default qiymat qanday ?",
+                Javada "Turli data typelar uchun Arrayning default qiymat qanday ?",
                 "Java-da Array yaratilgandan keyin uni size ni o'zgartira olamizmi ?",
                 "Arrayni size ni manfiy raqam belgilay olamizmi ?",
                 "Arrayni array size siz e'lon qila olamizmi ?",
@@ -89,6 +162,16 @@
                 "Java-da String literal nima ?",
                 "String literal xotirada qanday saqlanadi ?",
                 "Nima uchun Java String literaldan foydalanadi ?",
+                Java'da "thread pooling" qanday ishlaydi va qanday holatda foydalanish kerak? Misollar bilan tushuntiring.
+                Java'da "memory management"ning qanday amalga oshirilishi mumkin? Savollarni ko'rsatib, uni tushuntiring.
+                Java'da "concurrent collections" qanday ishlaydi? Misollar bilan tushuntiring.
+                Java'da "class loading" va "classpath" qanday ishlaydi? Misollar bilan tushuntiring.
+                Java'da "JVM internals"ni tushunishingiz borligini ko'rsating. Misollar bilan ta'minlang.
+                Java'da "high-performance computing" uchun qanday usullar va yondashuvlar mavjud? Misollar bilan tushuntiring.
+                Java'da "security"ni qanday ta'minlash mumkin? Xavfsizlikga oid savollarni ko'rsatib, ularni tushuntiring.
+                Java'da "memory leaks"ni aniqlash va ularga qanday to'g'ri kelish mumkin? Misollar bilan tushuntiring.
+                Java'da "concurrency" va "parallelism"ning farqi qanday? Misollar bilan tushuntiring.
+                Java'da "design patterns"ning "senior" darajadagi foydalanishi. Ba'zi ommabop "design patterns"ni misollar bilan ko'rsating.
                 "Quyidagi code da nechta object yaratiladi ? \n" +
                         "String s = new String(\"Hello\");",
                 """
@@ -96,11 +179,11 @@
                         String s1 = new String("Scientech");
                         String s2 = new String("Scientech");
                         String s3 = "Scientech";String s4 = "Scientech";""",
-                "String class qanday interfacelardan implement olgan ?",
-                "String Thread-safe mi ?",
-                "String classni kamchiliklari ?",
-                "String wrapper classmi ?",
-                "String intern() method nima uchun ishlatiladi ?",
+                Javada "String class qanday interfacelardan implement olgan ?",
+                Javada "String Thread-safe mi ?",
+                Javada "String classni kamchiliklari ?",
+                Javada "String wrapper classmi ?",
+                Javada "String intern() method nima uchun ishlatiladi ?",
                 "Java-da Formatting nima ?",
                 "String classni format() method javani nechinchi versiyasida taqdim etilgan ?",
                 "String classni format method qachon ishlatishimiz kerak ?",
@@ -319,6 +402,56 @@
                 "Qanday Bounds turlari bor?",
                 "Multiple Bounds nima?",
                 "Type Erasure nima?",
+                Java dasturlash tilida "Checked" va "Unchecked" istisnolar orasidagi farq nima?
+                Java da "final", "finally" va "finalize" kalit so'zlari orasidagi farq nima?
+                Java da "static" va "final" kalit so'zlari orasidagi farq nima?
+                Java da "equals()" va "==" operatori orasidagi farq nima?
+                Java da "String", "StringBuffer" va "StringBuilder" klasslari orasidagi farq nima?
+                Java da "HashMap" va "HashTable" orasidagi farq nima?
+                Java da "Stack" va "Queue" interfeyslari orasidagi farq nima?
+                Java da "ArrayList" va "LinkedList" orasidagi farq nima?
+                Java da "Concurrency" va "Parallelism" orasidagi farq nima?
+                Java da "Wrapper" klasslar nima?
+                Java da "Thread" va "Runnable" interfeys orasidagi farq nima?
+                Java da "synchronized" kalit so'zi va "Lock" obyekti orasidagi farq nima?
+                Java da "Object" klassining "equals()" va "hashCode()" metodlari orasidagi aloqasi qanday?
+                Java da "Generics" qanday ishlatiladi?
+                Java da "try-catch-finally" va "try-with-resources" bloklari orasidagi farq nima?
+                Java da "Inner class" va "Nested class" orasidagi farq nima?
+                Java da "Abstract class" va "Interface" orasidagi farq nima?
+                Java da "Method overloading" va "Method overriding" orasidagi farq nima?
+                Java da "Garbage Collection" qanday ishlaydi?
+                Java da "ClassLoader" va "Class" orasidagi farq nima?
+                Java da "Reflection" qanday ishlatiladi?
+                Java da "Serialization" va "Deserialization" qanday amalga oshiriladi?
+                Java da "Immutable" klasslar qanday yaratiladi?
+                Java da "Enum" qanday ishlatiladi?
+                Java da "Decorator" va "Proxy" dizayn patternlari orasidagi farq nima?
+                Java da "String pool" qanday ishlaydi?
+                Java da "Autoboxing" va "Unboxing" qanday amalga oshiriladi?
+                Java da "ConcurrentHashMap" va "Hashtable" orasidagi farq nima?
+                Java da "StringBuilder" va "StringBuffer" orasidagi farq nima?
+                Java da "Java Memory Model" nima?
+                Java da "Fork-Join Framework" qanday ishlatiladi?
+                Java da "Checked Exceptions" va "Unchecked Exceptions" orasidagi farq nima?
+                Java da "Executor" va "ExecutorService" orasidagi farq nima?
+                Java da "CountDownLatch" va "CyclicBarrier" orasidagi farq nima?
+                Java da "Deadlock" va "Starvation" nimalarni ifodalaydi?
+                Java da "Annotation" va "Marker Interface" orasidagi farq nima?
+                Java da "Factory Method" va "Abstract Factory" dizayn patternlari orasidagi farq nima?
+                Java da "String" va "StringBuffer" orasidagi farq nima?
+                Java da "Stack" va "Heap" orasidagi farq nima?
+                Java da "Shallow Copy" va "Deep Copy" orasidagi farq nima?
+                Java da "JVM" nima?
+                Java da "Method Overloading" va "Method Overriding" orasidagi farq nima?
+                Java da "StringBuilder" va "+" operatori orasidagi farq nima?
+                Java da "Checked Exceptions" qanday ishlatiladi?
+                Java da "Heap" va "Stack" orasidagi farq nima?
+                Java da "Type Erasure" nima?
+                Java da "Generics" va "Wildcards" orasidagi farq nima?
+                Java da "Static" va "Dynamic" polimorfizm orasidagi farq nima?
+                Java da "HashMap" va "TreeMap" orasidagi farq nima?
+                Java da "Observer" va "Observable" orasidagi farq nima?
                 "Type Erasure lar methodda ham sodir bo'ladimi ?",
                 "Raw type nima ?",
                 "Warnings nima ?",

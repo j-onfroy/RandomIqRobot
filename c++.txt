@@ -1,3 +1,53 @@
+C++ dasturlash tilida RAII nima?
+C++ da rvalue va lvalue nima?
+Move semantics va move constructor nima?
+C++ da smart pointerlar nima?
+C++ da template metaprogramming nima?
+C++ da lambdalar va funktorlar orasidagi farq nima?
+C++ da virtual inheritance qanday ishlaydi?
+C++ da stack va heap orasidagi farq nima?
+C++ da const va constexpr orasidagi farq nima?
+C++ da function overloading va function overriding orasidagi farq nima?
+C++ da std::move() va std::forward() funksiyalari nima?
+C++ da SFINAE (Substitution Failure Is Not An Error) nima?
+C++ da thread-safe kod yozish qanday amalga oshiriladi?
+C++ da move assignment operator qanday implement qilinadi?
+C++ da copy constructor va copy assignment operator orasidagi farq nima?
+C++ da implicit va explicit konstruktorlar orasidagi farq nima?
+C++ da dangling pointer va memory leak nimalardir?
+C++ da const_cast, static_cast, dynamic_cast va reinterpret_cast arasidagi farq nima?
+C++ da friend funksiya va klasslar nima?
+C++ da mutex va condition variable qanday ishlatiladi?
+C++ da typeid operatori nima qiladi?
+C++ da C++11, C++14 va C++17 da qo'shilgan yangiliklar nimalardir?
+C++ da copy elision nima?
+C++ da standard librarydan foydalanishning afzalliklari nimalardir?
+C++ da move-only klasslar qanday implement qilinadi?
+C++ da CRTP (Curiously Recurring Template Pattern) nima?
+C++ da noexcept va throw arasidagi farq nima?
+C++ da abstract klasslar qanday yaratiladi?
+C++ da stack unwinding va exception handling qanday ishlaydi?
+C++ da type traits nima?
+C++ da volatile kalit so'zi nima qiladi?
+C++ da user-defined literals qanday ishlatiladi?
+C++ da ADL (Argument-Dependent Lookup) nima?
+C++ da temporary objects qanday yaratiladi?
+C++ da bit fields qanday ishlatiladi?
+C++ da operator overloading qanday ishlaydi?
+C++ da default arguments qanday ishlatiladi?
+C++ da function objects (functorlar) qanday ishlatiladi?
+C++ da const member funksiyalar qanday ishlatiladi?
+C++ da variadic templates nima?
+C++ da string literals qanday ishlatiladi?
+C++ da vtable va vptr nima?
+C++ da dynamic memory allocation (new va delete) qanday ishlatiladi?
+C++ da preprocessor directives qanday ishlatiladi?
+C++ da initialization list qanday ishlatiladi?
+C++ da RAII konsepti qanday ishlatiladi?
+C++ da lambda captures (kimdagi o'zgaruvchanlarni lambda funksiyalari ichiga olish) qanday ishlatiladi?
+C++ da constexpr va const evaluatable functions qanday ishlatiladi?
+C++ da throw edilmagan exception qanday yuzaga keladi?
+C++ da object slicing qanday yuzaga keladi?
 C++ dasturlash tili haqida qisqacha gap bering.
 C++ning asosiy maqsadi nima?
 C++ va C# tushunchalari orasidagi farqni tushunishingiz qanday?

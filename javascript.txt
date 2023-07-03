@@ -1,3 +1,53 @@
+JavaScript ning hoisting nima?
+JavaScript da "this" kalit so'zi qanday ishlaydi?
+JavaScript da closure (yopiq funksiya) nima?
+JavaScript da prototiplar qanday ishlaydi?
+JavaScript da event bubbling va event capturing nima?
+JavaScript da promise (va async/await) qanday ishlatiladi?
+JavaScript da "callback hell" nima?
+JavaScript da event delegation nima?
+JavaScript da debouncing va throttling qanday amalga oshiriladi?
+JavaScript da "use strict" nima?
+JavaScript da "call", "apply" va "bind" metodlari orasidagi farq nima?
+JavaScript da IIFE (Immediately Invoked Function Expression) qanday ishlatiladi?
+JavaScript da "map", "reduce" va "filter" metodlari qanday ishlatiladi?
+JavaScript da "NaN" nima?
+JavaScript da "null" va "undefined" orasidagi farq nima?
+JavaScript da "let", "const" va "var" orasidagi farq nima?
+JavaScript da "arrow functions" qanday ishlatiladi?
+JavaScript da "event loop" qanday ishlaydi?
+JavaScript da "bind", "call" va "apply" orasidagi farq nima?
+JavaScript da "async" va "await" qanday ishlatiladi?
+JavaScript da "local storage" va "session storage" orasidagi farq nima?
+JavaScript da "prototype" va "class" orasidagi farq nima?
+JavaScript da "spread" operatori qanday ishlatiladi?
+JavaScript da "strict mode" nima?
+JavaScript da "ES6 modules" va "CommonJS modules" orasidagi farq nima?
+JavaScript da "generator" funksiyalar qanday ishlatiladi?
+JavaScript da "coercion" nima?
+JavaScript da "memoization" qanday ishlatiladi?
+JavaScript da "currying" qanday ishlatiladi?
+JavaScript da "promise chaining" qanday ishlatiladi?
+JavaScript da "EventEmitter" nima?
+JavaScript da "proxy" qanday ishlatiladi?
+JavaScript da "event-driven programming" nima?
+JavaScript da "immutability" nima?
+JavaScript da "strict equality" va "loose equality" orasidagi farq nima?
+JavaScript da "callback" funksiyalar qanday ishlatiladi?
+JavaScript da "shallow copy" va "deep copy" orasidagi farq nima?
+JavaScript da "memoize" funksiyalari qanday ishlatiladi?
+JavaScript da "requestAnimationFrame" qanday ishlatiladi?
+JavaScript da "async" va "defer" atributlarining ishlash tartibi qanday?
+JavaScript da "event delegation" qanday ishlatiladi?
+JavaScript da "shadow DOM" nima?
+JavaScript da "destructuring assignment" qanday ishlatiladi?
+JavaScript da "arrow functions" va "regular functions" orasidagi farq nima?
+JavaScript da "memoization" nima?
+JavaScript da "setInterval" va "setTimeout" orasidagi farq nima?
+JavaScript da "memoization" nima uchun ishlatiladi?
+JavaScript da "Object.freeze()" va "const" orasidagi farq nima?
+JavaScript da "async" va "defer" atributlari orasidagi farq nima?
+JavaScript da "Web Workers" qanday ishlatiladi?
 JavaScript dasturlash tili haqida qisqacha gap bering.
 JavaScriptning asosiy maqsadi nima?
 JavaScript va Java tushunchalari orasidagi farqni tushunishingiz qanday?
