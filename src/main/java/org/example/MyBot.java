@@ -54,7 +54,7 @@ public class MyBot extends TelegramLongPollingBot {
                             if (line.contains(update.getMessage().getFrom().getId().toString())) {
                                 exists = true;
                                 break;
-                            }
+                              }
                         }
                         if (!exists)
                             ignored.write(update.getMessage().getFrom().toString() + "\n");
@@ -102,14 +102,11 @@ public class MyBot extends TelegramLongPollingBot {
                 }
                 chooseProgrammingLanguage(chatId, update, text, messageId);
                 sendPdfDocument(chatId, update, text, messageId);
-
-
             }
         } catch (Exception e) {
             e.printStackTrace();
         }
     }
-
     private void executeOperation(Long chatIdBot, String buttonData) {
         SendMessage sendMessage = new SendMessage();
         sendMessage.setChatId(chatIdBot);
@@ -119,7 +116,6 @@ public class MyBot extends TelegramLongPollingBot {
         } catch (Exception e) {
             e.printStackTrace();
         }
-
         int number = Integer.parseInt(buttonData);
         String answerFromBard = BardAiApiConnect.getAnswerFromBard(questions.get(number - 1));
         sendMessage = new SendMessage();
@@ -132,7 +128,6 @@ public class MyBot extends TelegramLongPollingBot {
             e.printStackTrace();
         }
     }
-
     private void sendPdfDocument(Long chatId, Update update, String text, Integer messageId) {
 
         try {
@@ -140,8 +135,6 @@ public class MyBot extends TelegramLongPollingBot {
             File javapdfFile = new File("docs/javaInterview_compressed.pdf");
             File cpdfFile = new File("docs/C++InterviewQuestion_compressed.pdf");
             File pythonpdfFile = new File("docs/PythonInterviewQuestion_compressed.pdf");
-
-
             switch (text) {
                 case "Javascript dan savollarga tayyorlanish" -> {
                     SendDocument sendDocument = new SendDocument();
